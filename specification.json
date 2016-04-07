@@ -1,0 +1,9 @@
+{
+  "productID": "2016769211",
+  "constraints": {
+	"height": "119-121mm",
+	"weight": "70-72g",
+	"yieldstrength": ">500MPa"
+     },
+   "version": "1.0"
+}
